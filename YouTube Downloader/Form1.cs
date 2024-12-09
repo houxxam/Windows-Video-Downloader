@@ -9,8 +9,8 @@ namespace YouTube_Downloader
 {
     public partial class Form1 : Form
     {
-        private string ytDlpPath = Path.Combine(Application.StartupPath, "yt-dlp", "yt-dlp.exe");
-        private string ffmpegPath = Path.Combine(Application.StartupPath, "yt-dlp", "ffmpeg.exe"); // Ensure ffmpeg is in the same directory
+        private string ytDlpPath = Path.Combine(Application.StartupPath,  "yt-dlp.exe");
+        private string ffmpegPath = Path.Combine(Application.StartupPath,  "ffmpeg.exe"); // Ensure ffmpeg is in the same directory
         private string downloadFolder = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyVideos));
 
         public Form1()
