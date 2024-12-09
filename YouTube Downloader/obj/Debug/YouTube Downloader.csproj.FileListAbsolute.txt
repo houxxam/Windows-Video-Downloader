@@ -1,0 +1,10 @@
+C:\Users\houss\OneDrive\Desktop\YouTube Downloader\YouTube Downloader\bin\Debug\YouTube Downloader.exe.config
+C:\Users\houss\OneDrive\Desktop\YouTube Downloader\YouTube Downloader\bin\Debug\YouTube Downloader.exe
+C:\Users\houss\OneDrive\Desktop\YouTube Downloader\YouTube Downloader\bin\Debug\YouTube Downloader.pdb
+C:\Users\houss\OneDrive\Desktop\YouTube Downloader\YouTube Downloader\obj\Debug\YouTube Downloader.csproj.AssemblyReference.cache
+C:\Users\houss\OneDrive\Desktop\YouTube Downloader\YouTube Downloader\obj\Debug\YouTube_Downloader.Form1.resources
+C:\Users\houss\OneDrive\Desktop\YouTube Downloader\YouTube Downloader\obj\Debug\YouTube_Downloader.Properties.Resources.resources
+C:\Users\houss\OneDrive\Desktop\YouTube Downloader\YouTube Downloader\obj\Debug\YouTube Downloader.csproj.GenerateResource.cache
+C:\Users\houss\OneDrive\Desktop\YouTube Downloader\YouTube Downloader\obj\Debug\YouTube Downloader.csproj.CoreCompileInputs.cache
+C:\Users\houss\OneDrive\Desktop\YouTube Downloader\YouTube Downloader\obj\Debug\YouTube Downloader.exe
+C:\Users\houss\OneDrive\Desktop\YouTube Downloader\YouTube Downloader\obj\Debug\YouTube Downloader.pdb
